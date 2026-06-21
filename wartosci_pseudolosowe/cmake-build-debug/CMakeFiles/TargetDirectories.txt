@@ -1,0 +1,3 @@
+C:/Users/Student/CLionProjects/wartosci_pseudolosowe/cmake-build-debug/CMakeFiles/wartosci_pseudolosowe.dir
+C:/Users/Student/CLionProjects/wartosci_pseudolosowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/CLionProjects/wartosci_pseudolosowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
