@@ -1,0 +1,3 @@
+C:/Users/Student/Desktop/kalk_dane/cmake-build-debug/CMakeFiles/kalk_dane.dir
+C:/Users/Student/Desktop/kalk_dane/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/Desktop/kalk_dane/cmake-build-debug/CMakeFiles/rebuild_cache.dir
